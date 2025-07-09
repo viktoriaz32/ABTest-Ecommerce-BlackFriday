@@ -7,6 +7,8 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 The dataset contains the following tables:
 
 # STAR-Schema data model
+![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
+
 
 ## Objective
 Three dashboard tabs were created during the project, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
