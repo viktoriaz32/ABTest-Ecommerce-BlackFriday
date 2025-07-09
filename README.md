@@ -1,13 +1,17 @@
 # ABTest-Ecommerce-BlackFriday
 Financial analysis and Black Friday A/B test for a simulated e-commerce supplement store. Python-generated data was used to gain insights into how hero image variants impact user engagement (clicks, conversions, etc.). The analysis is visualized and reported in Power BI.
+
 ![abtest_hero_images](https://github.com/user-attachments/assets/4fb3c8a1-c500-43e7-8d34-935496f7ff6b)
+
 ---
 
 # STAR-Schema data model
+
 ![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
 
 
 ## Project Description
+
 Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024. The business questions were asked by the decision-makers of the e-commerce site.
 
 ## Sales and Financial Overview
