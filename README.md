@@ -7,10 +7,14 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 ![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
 
 
-## Objective
-Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
+## Project Description
+Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024. The business questions were asked by the decision-makers of the e-commerce site.
 
-Sales and Financial Overview
+## Sales and Financial Overview
+
+## Black Friday Impact Analysis
+
+## Customer and Product Analytics
 
 A/B test made it possible to evaluate which hero image (sports bra vs. long-sleeve top) leads to higher engagement and sales during the Black Friday campaign.
 
