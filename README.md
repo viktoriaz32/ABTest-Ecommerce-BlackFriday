@@ -12,7 +12,7 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 
 ## Project Description
 
-Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024. The business questions were asked by the decision-makers of the e-commerce site.
+Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024. The business questions were asked by the decision-makers of the e-commerce site. The tables (excel or csv files) represented in the STAR-Schema data model were provided from different sources such as Azure SQL Database, Azure Blob Storage, and files from marketing teams.
 
 ## Sales and Financial Overview
 
