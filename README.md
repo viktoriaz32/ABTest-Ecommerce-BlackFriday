@@ -55,3 +55,7 @@ A/B test made it possible to evaluate which hero image (sports bra vs. long-slee
 - Key insights derived from differences in engagement and conversion behavior.
 
 ### Customer and Product Analytics
+
+# Further Remarks
+
+The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
