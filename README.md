@@ -3,6 +3,8 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 
 ![abtest_hero_images](https://github.com/user-attachments/assets/4fb3c8a1-c500-43e7-8d34-935496f7ff6b)
 
+*Note: The hero images are for illustrative purposes only.
+
 ---
 
 # STAR-Schema data model
