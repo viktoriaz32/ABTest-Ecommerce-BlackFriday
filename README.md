@@ -16,7 +16,7 @@ The STAR schema data model below represents the tables used in the analysis, whi
 
 ## Project Description
 
-Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
+Three dashboard tabs were created for this report, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
 
 ### Sales and Financial Overview
 
