@@ -18,11 +18,9 @@ The STAR schema data model below represents the tables used in the analysis, whi
 
 Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
 
-## Sales and Financial Overview
+### Sales and Financial Overview
 
-## Black Friday Impact Analysis
-
-## Customer and Product Analytics
+### Black Friday Impact Analysis
 
 A/B test made it possible to evaluate which hero image (sports bra vs. long-sleeve top) leads to higher engagement and sales during the Black Friday campaign.
 
@@ -55,3 +53,5 @@ A/B test made it possible to evaluate which hero image (sports bra vs. long-slee
 ### 📊 Analysis
 - Statistical comparison of both variants’ performance.
 - Key insights derived from differences in engagement and conversion behavior.
+
+### Customer and Product Analytics
