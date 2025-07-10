@@ -1,4 +1,5 @@
 # ABTest-Ecommerce-BlackFriday
+
 Financial analysis and Black Friday A/B test for a simulated e-commerce supplement store. Python-generated data was used to gain insights into how hero image variants impact user engagement (clicks, conversions, etc.). The analysis is visualized and reported in Power BI.
 
 ![abtest_hero_images](https://github.com/user-attachments/assets/4fb3c8a1-c500-43e7-8d34-935496f7ff6b)
@@ -7,6 +8,8 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 ---
 
 # STAR-Schema data model
+
+The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive and accurate answers to the various business questions addressed throughout the project.
 
 ![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
 
