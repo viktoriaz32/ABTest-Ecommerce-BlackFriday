@@ -9,7 +9,7 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 
 # STAR-Schema data model
 
-The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive answers to the various business questions defined by the marketing team and key decision-makers
+The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive answers to the various business questions defined by the marketing team and key decision-makers.
 
 ![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
 
@@ -21,9 +21,21 @@ Three dashboard tabs were created for this report, each answering different busi
 ![preview](https://github.com/user-attachments/assets/941f2741-3f47-4936-866e-fcc779d0a615)
 
 
-### Sales and Financial Overview
+### 1. Sales and Financial Overview
 
-### Black Friday Impact Analysis
+**Focus**: Financial and sales performance.
+
+**Business questions:**
+
+- What were the total sales, profit, and order volume during Q4?
+- How did daily sales and profit evolve over the quarter?
+- Which products generated the highest revenue?
+- Which regions contributed the most to total sales?
+- Are there any products at risk due to low stock levels?
+
+**Goal**: Gaining a comprehensive view of sales performance, profit margins, and regional trends to support financial planning, forecasting, and inventory management.
+
+### 2. Black Friday Impact Analysis
 
 A/B test made it possible to evaluate which hero image (sports bra vs. long-sleeve top) leads to higher engagement and sales during the Black Friday campaign.
 
@@ -57,19 +69,19 @@ A/B test made it possible to evaluate which hero image (sports bra vs. long-slee
 - Statistical comparison of both variants’ performance.
 - Key insights derived from differences in engagement and conversion behavior.
 
-### Customer and Product Analytics
+### 3. Customer and Product Analytics
 
-Focus: Customer behaviour, retention, and product performance.
+**Focus**: Customer behaviour, retention, and product performance.
 
-Business questions:
+**Business questions:**
 - Who are our repeat vs new customers, and how valuable are they?
 - What products drive the most profit, and which are often bought together?
 - Which countries have the highest repeat buyer rates?
 - How loyal are customers over time (retention by cohort)?
 - What is the top-performing product by name, basket value, and quantity?
-
-Goal: Customer lifetime value optimization, increase repeat purchase, 
+  
+**Goal:** Customer lifetime value optimisation, increased repeat purchases, market segmentation support, and improved promotional strategy.
 
 # Further Remarks
 
-The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
+The dashboard tabs can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
