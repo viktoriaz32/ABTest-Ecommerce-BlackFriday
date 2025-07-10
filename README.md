@@ -9,14 +9,14 @@ Financial analysis and Black Friday A/B test for a simulated e-commerce suppleme
 
 # STAR-Schema data model
 
-The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive and accurate answers to the various business questions addressed throughout the project.
+The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive answers to the various business questions defined by the marketing team and key decision-makers
 
 ![kép](https://github.com/user-attachments/assets/d097f90c-e0c6-49c8-8cc2-cbd455b2100c)
 
 
 ## Project Description
 
-Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024. The business questions were asked by the decision-makers of the e-commerce site. The tables (excel or csv files) represented in the STAR-Schema data model were provided from different sources such as Azure SQL Database, Azure Blob Storage, and files from marketing teams.
+Three dashboard tabs were created, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
 
 ## Sales and Financial Overview
 
