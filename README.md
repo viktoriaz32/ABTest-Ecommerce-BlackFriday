@@ -56,6 +56,17 @@ A/B test made it possible to evaluate which hero image (sports bra vs. long-slee
 
 ### Customer and Product Analytics
 
+Focus: Customer behaviour, retention, and product performance.
+
+Business questions:
+- Who are our repeat vs new customers, and how valuable are they?
+- What products drive the most profit, and which are often bought together?
+- Which countries have the highest repeat buyer rates?
+- How loyal are customers over time (retention by cohort)?
+- What is the top-performing product by name, basket value, and quantity?
+
+Goal: Customer lifetime value optimization, increase repeat purchase, 
+
 # Further Remarks
 
 The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
