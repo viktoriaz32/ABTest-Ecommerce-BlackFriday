@@ -18,6 +18,9 @@ The STAR schema data model below represents the tables used in the analysis, whi
 
 Three dashboard tabs were created for this report, each answering different business questions for the simulated supplement e-commerce store during Q4 2024.
 
+![preview](https://github.com/user-attachments/assets/941f2741-3f47-4936-866e-fcc779d0a615)
+
+
 ### Sales and Financial Overview
 
 ### Black Friday Impact Analysis
