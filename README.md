@@ -112,4 +112,4 @@ Variation (Variant B): Hero image with a model wearing a long-sleeve top.
 
 # Further Remarks
 
-The dashboard tabs can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
+The interactive dashboard tabs/report can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
