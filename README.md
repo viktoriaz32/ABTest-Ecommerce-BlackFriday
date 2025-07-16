@@ -10,7 +10,7 @@ Links:
 
 [Python data generation script](python/generate_ecommerce_data.py)
 
-[Interactive Power BI Report](main/Report-ABTest-Ecommerce-BlackFriday.pbix)
+[Interactive Power BI Report](Report-ABTest-Ecommerce-BlackFriday.pbix)
 
 ![abtest_hero_images](https://github.com/user-attachments/assets/4fb3c8a1-c500-43e7-8d34-935496f7ff6b)
 *Note: The hero images are used solely for illustrative purposes.
