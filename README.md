@@ -1,4 +1,4 @@
-# ABTest-Ecommerce-BlackFriday
+# ABTest-Ecommerce-BlackFriday-PowerBI-ETL
 
 Financial analysis and Black Friday A/B test for a simulated e-commerce supplement store. Python-generated data was used to gain insights into how hero image variants impact user engagement (clicks, conversions, etc.). The analysis is visualized and reported in Power BI.
 
@@ -47,37 +47,55 @@ Three dashboard tabs were created for this report, each answering different busi
 
 ### 2. Black Friday Impact Analysis
 
-A/B test made it possible to evaluate which hero image (sports bra vs. long-sleeve top) leads to higher engagement and sales during the Black Friday campaign.
+**Focus**: The A/B test made it possible to evaluate which hero image (sports bra vs. long-sleeve top) leads to higher engagement and sales during the Black Friday campaign. Campaing sales impact, traffic engagement, conversion efficiency and visual analysis helps further marketing optimisation.
 
-### 📌 Hypothesis
-- **Variant A (Sports Bra)** will perform better by aligning with fitness-focused design trends.
-- **Variant B (Long-Sleeve Top)** may appeal to audiences who prefer modesty and practicality.
+**Business questions:**
 
-### 🧪 Test Variants
-- **Control (Variant A):** Hero image with a model wearing a sports bra.
-- **Variation (Variant B):** Hero image with a model wearing a long-sleeve top.
+- How did Black Friday week contribute to total Q4 sales and order volume?
+- Which hero image variant performed better in terms of engagement (CTR), conversion, and bounce rate?
+- What were the differences in customer behaviour between Variant A and Variant B?
+- Is there a correlation between bounce rate and conversion performance?
+- Which image should be used in future campaigns to maximise ROI?
 
-### 📈 Key Metrics
+**Goal**: Gaining a deeper understanding of the Black Friday campaign's impact on total Q4 sales and testing creative effectiveness (hero images) to optimise future promotional strategies, improve conversion efficiency, and maximise ROI on high-traffic campaigns.
+
+#### A/B Test
+
+**Hypothesis**
+
+H1: Variant A (Sports Bra) will perform better by aligning with fitness-focused design trends.
+
+H2: Variant B (Long-Sleeve Top) may appeal to audiences who prefer modesty and practicality.
+
+**Test Variants**
+
+Control (Variant A): Hero image with a model wearing a sports bra.
+
+Variation (Variant B): Hero image with a model wearing a long-sleeve top.
+
+**Key Metrics**
+
 - Click-through rate (CTR)
 - Conversion rate (CR)
 - Bounce rate
 - Average order value (AOV)
 
-### 👥 Audience
+**Audience**
+
 - Simulated web traffic during the Black Friday period (Nov 24–28).
 - Even 50/50 traffic split between variants.
 
-### ⏳ Duration
-- 5 days (Nov 24–28)
+**Duration**
+- 5 days (Nov 24–28 of 2024)
 
-### 🛠️ Implementation
+**Implementation**
 - Python was used to simulate data and generate A/B test metrics.
 - Metrics include realistic CTR, CR, and bounce rates based on ecommerce benchmarks.
 - Power BI used for interactive visualization and dashboard reporting.
 
-### 📊 Analysis
+**Analysis**
 - Statistical comparison of both variants’ performance.
-- Key insights derived from differences in engagement and conversion behavior.
+- Key insights derived from differences in engagement and conversion behaviour.
 
 ### 3. Customer and Product Analytics
 
