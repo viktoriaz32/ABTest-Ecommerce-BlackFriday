@@ -1,0 +1,11 @@
+SupplierID,SupplierName,Country,CategorySupplied
+S001,PureNutri,Denmark,Amino Acids
+S002,EuroNutri,Germany,Creatine
+S003,EuroFit,Sweden,Amino Acids
+S004,VitaLab,Italy,Creatine
+S005,EliteFit,France,Pre-workout
+S006,HealthNutri,Czechia,Performance
+S007,GlobalFoods,Netherlands,Protein
+S008,GlobalSupps,Austria,Protein
+S009,ActiveWorld,Poland,Protein
+S010,HealthNutri,Finland,Vitamins

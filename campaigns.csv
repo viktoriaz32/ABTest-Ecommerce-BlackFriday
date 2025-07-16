@@ -1,0 +1,5 @@
+CampaignID,Name,StartDate,EndDate,PromoCode,DiscountPercent,IsBlackFriday
+BF2024,Black Friday,2024-11-24,2024-11-28,BF2024,10,Yes
+XMAS2024,Xmas Promo,2024-12-20,2024-12-24,XMAS24,15,No
+SPRING24,Spring Launch,2024-10-15,2024-10-22,SPR24,12,No
+HALLOWEEN24,Halloween Flash,2024-10-29,2024-10-31,HW24,7,No
