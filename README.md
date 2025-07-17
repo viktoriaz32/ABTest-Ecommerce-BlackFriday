@@ -17,6 +17,10 @@ Links:
 
 ---
 
+# Methodology
+
+![kép](https://github.com/viktoriaz32/ABTest-Ecommerce-BlackFriday-PowerBI-ETL/blob/main/images/etl_ecommerce.png?raw=true)
+
 # STAR-Schema data model
 
 The STAR schema data model below represents the tables used in the analysis, which were sourced from multiple systems such as Azure SQL Database, Azure Blob Storage, and local files (Excel or CSV) provided by the marketing team. This structure enabled comprehensive answers to the various business questions defined by the marketing team and key decision-makers.
