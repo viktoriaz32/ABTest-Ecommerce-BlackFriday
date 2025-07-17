@@ -19,6 +19,8 @@ Links:
 
 # Methodology
 
+The ETL pipeline shown below outlines the end-to-end process of data preparation — from data extraction from different sources such as Azure SQL Databases, Excel/CSV files, Azure Blob Storage, and file folders; to data transformation in Power Query (including data cleaning and formatting standardization); and lastly to data loading — using a STAR schema model in which table types (fact, dimension, and analytical) are clearly defined.
+
 ![kép](https://github.com/viktoriaz32/ABTest-Ecommerce-BlackFriday-PowerBI-ETL/blob/main/images/etl_ecommerce.png?raw=true)
 
 # STAR-Schema data model
