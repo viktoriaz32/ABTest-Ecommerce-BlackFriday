@@ -103,6 +103,11 @@ Variation (Variant B): Hero image with a model wearing a long-sleeve top.
 - Statistical comparison of both variants’ performance.
 - Key insights derived from differences in engagement and conversion behaviour.
 
+#### A/B Test Results Summary
+
+During the 2024 Black Friday campaign, Variant B attracted significantly more visitors with a 10.48% CTR, compared to Variant A, which had a 5.55% CTR. However, Variant A achieved a higher conversion rate (474.74%) and a lower bounce rate (43.39%) during the Black Friday campaign of 2024. Since Variant A outperformed Variant B in conversions, the results suggest greater resonance with buyers. The average order value was consistent between the two variants. 
+Given Variant A’s stronger performance in terms of quality traffic and sales efficiency, the hero image of Variant A is recommended for future high-traffic campaigns to deliver meaningful engagement and better ROI by converting visitors at a higher rate with lower bounce.
+
 ### 3. Customer and Product Analytics
 
 **Focus**: Customer behaviour, retention, and product performance.
